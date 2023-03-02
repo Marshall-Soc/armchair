@@ -1,1 +1,9 @@
-# armchair
+# Armchair Citizenship and Ontological Insecurity: Reproduction Guide
+
+[Terence E. McDonnell](https://sociology.nd.edu/people/terence-mcdonnell), [Sarah Neitz](https://directory.msmary.edu/people/sarah-neitz.html) & [Marshall A. Taylor](https://www.marshalltaylor.net)
+
+This repository contains all R code necessary to reproduce the analysis in "Armchair Citizenship and Ontological Insecurity: Uncovering Styles of Media and Political Behavior," [published in *Poetics*](https://www.sciencedirect.com/science/article/pii/S0304422X23000049?dgcid=coauthor).
+
+Please contact [Terence E. McDonnell](mailto:terence.e.mcdonnell@nd.edu) for details on how to access the data.
+
+Media effects research has established a positive relationship between media and news consumption and political action—a "more-more" pattern. This paper identifies a coexistent "more-less" pattern in which more political engagement on social media is associated with limited political behavior offline. Traditional approaches that treat media behavior as an independent variable and political behavior as dependent miss this finding. Instead, this paper treats configurations of media and political behavior as styles, identified through latent class analysis (LCA). The data come from an original survey of American citizens about their encounters with political content on social media, their media habits, and their online expression of political attitudes to assess whether and how these media behaviors undermine their political and civic engagement offline. The latent class analysis of these data reveals three styles, which we label "actives," "passives," and "armchair citizens" (i.e., more-less). We then seek to make sense of this armchair citizen style---who would choose this style of media and political participation? An LCA regression model predicting membership into the armchair citizen class suggests that armchair citizen style is associated with experiencing what Giddens’ called "ontological insecurity."
